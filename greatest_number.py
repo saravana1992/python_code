@@ -1,4 +1,4 @@
-# following lines to take three numbers from user
+# following lines to take three numbers from user1
 x=int(input("enter the number of x:"))
 y=int(input("enter the number of y:"))
 z=int(input("enter the number of z1:"))
