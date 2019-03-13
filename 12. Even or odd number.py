@@ -10,8 +10,8 @@ def eoo(x):
     return even,odd
 
 
-lst=(1,22,33,44)
+lst=[1,22,33,44]
 
-evenorodd= eoo(lst)
+even, odd = eoo(lst)
 
 print(even)
